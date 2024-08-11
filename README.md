@@ -8,7 +8,7 @@ Sou um analista de dados dedicado a transformar dados em insights valiosos que a
 
 * 🌍  Eu sou de Vitória - ES, Brasil
 * ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
-* 🧠  Estou estudando Power BI | Design UX | Machine Learning
+* 🧠  Estou estudando Power BI | Design UX | Engenharia de Dados
 * ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
 
 ### Skills
