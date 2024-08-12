@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Felipe
 =======================
 
-Analista de Dados | Apaixonado por Análise de Dados e Impacto Social
+Analista de Dados | Apaixonado por Dados e Impacto Social
 --------------------------------------------------------------------
 
 Sou um analista de dados dedicado a transformar dados em insights valiosos que ajudam a resolver problemas e promover mudanças positivas. Tenho um forte interesse em projetos que fazem a diferença na sociedade, como análises de impacto social e outros temas relevantes. Estou sempre em busca de novos desafios para aplicar minha paixão por dados e contribuir de maneira significativa.
@@ -11,13 +11,15 @@ Sou um analista de dados dedicado a transformar dados em insights valiosos que a
 * 🧠  Estou estudando Power BI | Design UX | Engenharia de Dados
 * ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
 
-### Skills
+### O Felipe atualmente
 
+Atualmente, estou focado em vários aspectos do meu desenvolvimento profissional, incluindo projetos de impacto social, Power BI, Design UX e Engenharia de Dados. Sou uma pessoa muito curiosa e tenho um forte desejo de me desenvolver tanto como ser humano quanto como profissional. Enquanto busco o tão sonhado "sim" para uma vaga de emprego, sigo me desenvolvendo.  
+
+### Skills
 
 <p align="left">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
 
 ### Rede Social
 
