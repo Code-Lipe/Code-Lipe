@@ -1,6 +1,16 @@
 Olá 👋 Meu nome é Felipe
 =======================
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Focado-4CAF50?style=flat&logo=eye&logoColor=white" alt="Focado" />
+  <img src="https://img.shields.io/badge/Aprendizado_Constante-FF5722?style=flat&logo=book&logoColor=white" alt="Aprendizado Constante" />
+  <img src="https://img.shields.io/badge/Impacto_Social-FFC107?style=flat&logo=globe&logoColor=white" alt="Impacto Social" />
+  <img src="https://img.shields.io/badge/Curioso-03A9F4?style=flat&logo=question&logoColor=white" alt="Curioso" />
+  <img src="https://img.shields.io/badge/Entusiasta_Tecnológico-00BCD4?style=flat&logo=computer&logoColor=white" alt="Entusiasta Tecnológico" />
+  <img src="https://img.shields.io/badge/Colaborativo-8BC34A?style=flat&logo=users&logoColor=white" alt="Colaborativo" />
+  <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
+</p>
+
 Analista de Dados | Apaixonado por Dados e Impacto Social
 --------------------------------------------------------------------
 
@@ -11,14 +21,25 @@ Sou um analista de dados dedicado a transformar dados em insights valiosos que a
 * 🧠  Estou estudando Power BI | Design UX | Engenharia de Dados
 * ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
 
-### O Felipe atualmente
+### O Felipe Atualmente
 
 Atualmente, estou focado em vários aspectos do meu desenvolvimento profissional, incluindo projetos de impacto social, Power BI, Design UX e Engenharia de Dados. Sou uma pessoa muito curiosa e tenho um forte desejo de me desenvolver tanto como ser humano quanto como profissional. Enquanto busco o tão sonhado "sim" para uma vaga de emprego, sigo me desenvolvendo.  
 
 ### Skills
 
 <p align="left">
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/36/000000/power-bi.png" width="36" height="36" alt="Power BI" />
+  </a>
 </p>
 
 ### Rede Social
