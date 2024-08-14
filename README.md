@@ -18,12 +18,12 @@ Sou um analista de dados dedicado a transformar dados em insights valiosos que a
 
 * 🌍  Eu sou de Vitória - ES, Brasil
 * ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
-* 🧠  Estou estudando Power BI | Design UX | Engenharia de Dados
+* 🧠  Estou estudando Power BI | Fundamentos de Negócios | Engenharia de Dados
 * ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
 
 ### O Felipe Atualmente
 
-Atualmente, estou focado em vários aspectos do meu desenvolvimento profissional, incluindo projetos de impacto social, Power BI, Design UX e Engenharia de Dados. Sou uma pessoa muito curiosa e tenho um forte desejo de me desenvolver tanto como ser humano quanto como profissional. Enquanto busco o tão sonhado "sim" para uma vaga de emprego, sigo me desenvolvendo.  
+Busco constantemente novos desafios e oportunidades de aprendizado. Meus estudos atuais incluem projetos sociais, Power BI, fundamentos de negócios e engenharia de dados. Sou adaptável e capaz de aprender novas tecnologias rapidamente, o que me permite contribuir de forma significativa para equipes multidisciplinares.
 
 ### Skills
 
