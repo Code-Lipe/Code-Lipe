@@ -14,7 +14,7 @@ Olá 👋 Meu nome é Felipe
 Analista de Dados | Apaixonado por Dados e Impacto Social
 --------------------------------------------------------------------
 
-Sou um analista de dados dedicado a transformar dados em insights valiosos que ajudam a resolver problemas e promover mudanças positivas. Tenho um forte interesse em projetos que fazem a diferença na sociedade, como análises de impacto social e outros temas relevantes. Sou um profissional em constante busca por novos desafios, com foco em aplicar minhas habilidades em dados para gerar valor e impactar positivamente.
+Sou um analista de dados dedicado a transformar dados em insights valiosos que ajudam a resolver problemas e promover mudanças positivas. Profissional de dados com certificações Google e IBM, com expertise em Python, R, SQL e análise de dados. Experiência em todo o ciclo de vida da análise de dados, desde a coleta até a visualização de resultados. Tenho um forte interesse em projetos que fazem a diferença na sociedade, como análises de impacto social e outros temas relevantes. Sou um profissional em constante busca por novos desafios, com foco em aplicar minhas habilidades em dados para gerar valor e impactar positivamente.
 
 * 🌍  Eu sou de Vitória - ES, Brasil
 * ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
