@@ -37,9 +37,6 @@ Concluí um projeto (EDA) super interessante sobre saúde mental dos estudantes 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/36/000000/power-bi.png" width="36" height="36" alt="Power BI" />
-  </a>
 </p>
 
 ### Rede Social
