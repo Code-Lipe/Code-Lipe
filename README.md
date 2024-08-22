@@ -18,7 +18,7 @@ Sou um analista de dados dedicado a transformar dados em insights valiosos que a
 
 * 🌍  Eu sou de Vitória - ES, Brasil
 * ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
-* 🧠  Estou estudando Power BI | Fundamentos de Negócios | Engenharia de Dados
+* 🧠  Estou estudando Looker Studio | Fundamentos de Negócios | Big Data
 * ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
 
 ### Code-Lipe News 📰 
