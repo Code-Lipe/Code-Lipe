@@ -21,9 +21,9 @@ Sou um analista de dados dedicado a transformar dados em insights valiosos que a
 * 🧠  Estou estudando Power BI | Fundamentos de Negócios | Engenharia de Dados
 * ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
 
-### O Felipe Atualmente
+### Code-Lipe News 📰 
 
-Busco constantemente novos desafios e oportunidades de aprendizado. Meus estudos atuais incluem projetos sociais, Power BI, fundamentos de negócios e engenharia de dados. Sou adaptável e capaz de aprender novas tecnologias rapidamente, o que me permite contribuir de forma significativa para equipes multidisciplinares.
+Concluí um projeto (EDA) super interessante sobre saúde mental dos estudantes universitários! Durante a análise, explorei a prevalência de sintomas como depressão e ansiedade, investiguei a relação entre o desempenho acadêmico e o bem-estar mental, e muito mais! Confira em meu portifólio do [Kaggle](https://www.kaggle.com/code/fecodelipe/sa-de-mental-de-estudantes-eda).
 
 ### Skills
 
