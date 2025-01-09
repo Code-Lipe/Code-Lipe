@@ -11,23 +11,38 @@ Olá 👋 Meu nome é Felipe
   <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
 </p>
 
-Analista de Dados | Apaixonado por Dados e Impacto Social
+Analista de Dados | Entretenimento e Mídia
 --------------------------------------------------------------------
 
-Sou um analista de dados dedicado a transformar dados em insights valiosos que ajudam a resolver problemas e promover mudanças positivas. Profissional de dados com certificações Google e IBM, com expertise em Python, R, SQL e análise de dados. Experiência em todo o ciclo de vida da análise de dados, desde a coleta até a visualização de resultados. Tenho um forte interesse em projetos que fazem a diferença na sociedade, como análises de impacto social e outros temas relevantes. Sou um profissional em constante busca por novos desafios, com foco em aplicar minhas habilidades em dados para gerar valor e impactar positivamente.
+Sou um analista de dados dedicado e entusiasta do entretenimento e mídia. Com habilidades sólidas em Python, R, SQL e visualização de dados, busco entender o comportamento do usuário e otimizar experiências de streaming. Tenho experiência em análise de dados, EDA e modelagem preditiva, e estou sempre em busca de novos desafios para ampliar meus conhecimentos.
+
+Minha paixão por filmes, games e música me inspira a usar dados para criar soluções inovadoras que impactem positivamente a forma como as pessoas consomem conteúdo. Meu objetivo é contribuir para empresas líderes no setor, como a Netflix (HBO, Prime e etc) desenvolvendo sistemas de recomendação e insights que aprimorem a experiência do usuário.
 
 * 🌍  Eu sou de Vitória - ES, Brasil
 * ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
-* 🧠  Estou estudando ThoughtSpot | Dashboards |  Análise de Indicadores
-* ⚡  Meu mundo é cercado por tecnologia, literatura, games e design
+* 🧠  Estou estudando: Comportamento do Consumidor | Análise de Métricas e KPI's |  Sistemas de Recomendação
+* ⚡  Meu mundo é cercado por tecnologia, literatura, entretenimento e games
 
-### Code-Lipe News 📰 
+## Code-Lipe News 📰 
+
+#### **Foco no Setor de Entretenimento e Mídia** 
+
+Estou animado em compartilhar que decidi focar minha carreira no setor de entretenimento e mídia! Minha paixão por filmes, música e games me levou a explorar como os dados podem transformar a experiência do usuário em plataformas de streaming e mídia. 
+
+#### **Projetos (em breve...)**
+- **Análise de Padrões de Visualização de Séries**: Um projeto que explora como os usuários interagem com séries na plataforma de streaming, usando Python e SQL para descobrir insights valiosos.
+- **Sistema de Recomendação de Filmes**: Desenvolvimento de um sistema de recomendação personalizado para filmes, utilizando técnicas de machine learning e análise preditiva.
+
+#### **Próximos Passos** 
+
+Continuarei a desenvolver minhas habilidades em análise de dados, visualização e machine learning, com o objetivo de contribuir para a otimização das experiências de entretenimento.
+
+#### **Confira!**
 
 Concluí um projeto (EDA) super interessante sobre saúde mental dos estudantes universitários! Durante a análise, explorei a prevalência de sintomas como depressão e ansiedade, investiguei a relação entre o desempenho acadêmico e o bem-estar mental, e muito mais! Confira em meu portifólio do [Kaggle](https://www.kaggle.com/code/fecodelipe/sa-de-mental-de-estudantes-eda).
 
 ### Rede Social
-
-<p align="left"> <a href="https://www.github.com/Code-Lipe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/fe.lipe_os" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-codelipe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+</picture> </a> <a href="http://www.instagram.com/fe.lipe_os" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-codelipe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Distintivos
 
