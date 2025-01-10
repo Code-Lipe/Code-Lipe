@@ -11,31 +11,30 @@ Olá 👋 Meu nome é Felipe
   <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
 </p>
 
-Analista de Dados | Entretenimento e Mídia
+Analista de Dados | Varejo
 --------------------------------------------------------------------
 
-Sou um analista de dados dedicado e entusiasta do entretenimento e mídia. Com habilidades sólidas em Python, R, SQL e visualização de dados, busco entender o comportamento do usuário e otimizar experiências de streaming. Tenho experiência em análise de dados, EDA e modelagem preditiva, e estou sempre em busca de novos desafios para ampliar meus conhecimentos.
+Sou um analista de dados dedicado e entusiasta do setor de varejo. Com habilidades sólidas em Python, R, SQL e visualização de dados, busco entender o comportamento do consumidor e otimizar as operações de vendas. Tenho experiência em análise de dados, EDA e modelagem preditiva, e estou sempre em busca de novos desafios para ampliar meus conhecimentos.
 
-Minha paixão por filmes, games e música me inspira a usar dados para criar soluções inovadoras que impactem positivamente a forma como as pessoas consomem conteúdo. Meu objetivo é contribuir para empresas líderes no setor, como a Netflix (HBO, Prime e etc) desenvolvendo sistemas de recomendação e insights que aprimorem a experiência do usuário.
+Minha paixão por varejo me inspira a usar dados para criar soluções inovadoras que impactem positivamente a forma como as pessoas fazem suas compras. Meu objetivo é contribuir para empresas líderes no setor e outros grandes varejistas, desenvolvendo sistemas de recomendação e insights que aprimorem a experiência do cliente e aumentem a eficiência operacional.
 
 * 🌍  Eu sou de Vitória - ES, Brasil
 * ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
-* 🧠  Estou estudando: Comportamento do Consumidor | Análise de Métricas e KPI's |  Sistemas de Recomendação
-* ⚡  Meu mundo é cercado por tecnologia, literatura, entretenimento e games
+* 🧠  Estou estudando: Comportamento do Consumidor | Análise de Métricas e KPI's |  Otimização de Estoque
+* ⚡  Meu mundo é cercado por tecnologia, literatura, varejo e games
 
 ## Code-Lipe News 📰 
 
-#### **Foco no Setor de Entretenimento e Mídia** 
+#### **Foco no Setor de Varejo** 
 
-Estou animado em compartilhar que decidi focar minha carreira no setor de entretenimento e mídia! Minha paixão por filmes, música e games me levou a explorar como os dados podem transformar a experiência do usuário em plataformas de streaming e mídia. 
+Estou animado em compartilhar que decidi focar minha carreira no setor de varejo! Minha paixão pelo comportamento do consumidor e a otimização de operações me levou a explorar como os dados podem transformar a experiência do cliente em lojas físicas e online.
 
-#### **Projetos (em breve...)**
-- **Análise de Padrões de Visualização de Séries**: Um projeto que explora como os usuários interagem com séries na plataforma de streaming, usando Python e SQL para descobrir insights valiosos.
-- **Sistema de Recomendação de Filmes**: Desenvolvimento de um sistema de recomendação personalizado para filmes, utilizando técnicas de machine learning e análise preditiva.
+#### **Projetos**
+- **Em breve...**
 
 #### **Próximos Passos** 
 
-Continuarei a desenvolver minhas habilidades em análise de dados, visualização e machine learning, com o objetivo de contribuir para a otimização das experiências de entretenimento.
+Continuarei a desenvolver minhas habilidades em análise de dados, visualização e machine learning, com o objetivo de contribuir para a otimização das experiências de compra e aumento da eficiência operacional no setor de varejo.
 
 #### **Confira!**
 
