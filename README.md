@@ -29,8 +29,13 @@ Minha paixão por varejo me inspira a usar dados para criar soluções inovadora
 
 Estou animado em compartilhar que decidi focar minha carreira no setor de varejo! Minha paixão pelo comportamento do consumidor e a otimização de operações me levou a explorar como os dados podem transformar a experiência do cliente em lojas físicas e online.
 
-#### **Projetos**
-- **Em breve...**
+#### **Projetos (em breve...)**
+
+#### **Análise de Padrões de Compra e Comportamento do Consumidor**
+- Um projeto que explora como os consumidores interagem com produtos e serviços em uma plataforma de varejo. Utilizando Python e SQL, realizo análises para identificar padrões de compra, segmentar consumidores e prever comportamentos futuros, proporcionando insights valiosos para otimizar operações e melhorar a experiência do cliente.
+
+#### **Sistema de Recomendação de Produtos**
+- Desenvolvimento de um sistema de recomendação personalizado para produtos no setor de varejo. Utilizo técnicas de machine learning e análise preditiva para sugerir produtos aos clientes com base em seu histórico de compras e preferências, ajudando a aumentar a satisfação do cliente e as vendas.
 
 #### **Próximos Passos** 
 
