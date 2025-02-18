@@ -11,39 +11,27 @@ Olá 👋 Meu nome é Felipe
   <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
 </p>
 
-Analista de Dados | Varejo
+🚀 Data Engineer & Analysis | Dados em Grande Escala
 --------------------------------------------------------------------
 
-Sou um analista de dados dedicado e entusiasta do setor de varejo. Com habilidades sólidas em Python, R, SQL e visualização de dados, busco entender o comportamento do consumidor e otimizar as operações de vendas. Tenho experiência em análise de dados, EDA e modelagem preditiva, e estou sempre em busca de novos desafios para ampliar meus conhecimentos.
+Sou um profissional apaixonado por tecnologia e dados, atualmente focado em **Engenharia de Dados**. Meu objetivo é construir pipelines eficientes, processar grandes volumes de informações e garantir a integridade dos dados para apoiar decisões estratégicas.
 
-Minha paixão por varejo me inspira a usar dados para criar soluções inovadoras que impactem positivamente a forma como as pessoas fazem suas compras. Meu objetivo é contribuir para empresas líderes no setor e outros grandes varejistas, desenvolvendo sistemas de recomendação e insights que aprimorem a experiência do cliente e aumentem a eficiência operacional.
+Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate** e expandindo minhas habilidades em **ETL**, **web scraping**, **SQL**, **Apache Spark** e **computação em nuvem**. Minha missão é transformar dados brutos em informações valiosas, com código otimizado e escalável.
 
-* 🌍  Eu sou de Vitória - ES, Brasil
-* ✉️  Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
-* 🧠  Estou estudando: Comportamento do Consumidor | Análise de Métricas e KPI's |  Otimização de Estoque
-* ⚡  Meu mundo é cercado por tecnologia, literatura, varejo e games
+* 🌍 Eu sou de Vitória - ES, Brasil
+* ✉️ Você pode entrar em contato comigo em [felipe-codelipe@hotmail.com](mailto:felipe-codelipe@hotmail.com)
+* 📖 Atualmente estudando: Engenharia de Dados | Apache Spark | Automação de Pipelines
+* ⚡  Hobbies: Tecnologia, literatura, heavy metal e games 🎮
 
-## Code-Lipe News 📰 
+📂 Projetos Recentes
 
-#### **Foco no Setor de Varejo** 
+🔹 ETL e Web Scraping - Os Maiores Bancos do Mundo
 
-Estou animado em compartilhar que decidi focar minha carreira no setor de varejo! Minha paixão pelo comportamento do consumidor e a otimização de operações me levou a explorar como os dados podem transformar a experiência do cliente em lojas físicas e online.
+  * Projeto que combina Extração, Transformação e Carga (ETL) de dados com web scraping.
 
-#### **Projetos (em breve...)**
+  * Utiliza Python, BeautifulSoup, Pandas e SQLite para coletar informações e armazená-las de forma estruturada.
 
-#### **Análise de Padrões de Compra e Comportamento do Consumidor**
-- Um projeto que explora como os consumidores interagem com produtos e serviços em uma plataforma de varejo. Utilizando Python e SQL, realizo análises para identificar padrões de compra, segmentar consumidores e prever comportamentos futuros, proporcionando insights valiosos para otimizar operações e melhorar a experiência do cliente.
-
-#### **Sistema de Recomendação de Produtos**
-- Desenvolvimento de um sistema de recomendação personalizado para produtos no setor de varejo. Utilizo técnicas de machine learning e análise preditiva para sugerir produtos aos clientes com base em seu histórico de compras e preferências, ajudando a aumentar a satisfação do cliente e as vendas.
-
-#### **Próximos Passos** 
-
-Continuarei a desenvolver minhas habilidades em análise de dados, visualização e machine learning, com o objetivo de contribuir para a otimização das experiências de compra e aumento da eficiência operacional no setor de varejo.
-
-#### **Confira!**
-
-Concluí um projeto (EDA) super interessante sobre saúde mental dos estudantes universitários! Durante a análise, explorei a prevalência de sintomas como depressão e ansiedade, investiguei a relação entre o desempenho acadêmico e o bem-estar mental, e muito mais! Confira em meu portifólio do [Kaggle](https://www.kaggle.com/code/fecodelipe/sa-de-mental-de-estudantes-eda).
+🔗 Disponível em breve no GitHub!
 
 ### Rede Social
 </picture> </a> <a href="http://www.instagram.com/fe.lipe_os" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-codelipe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
