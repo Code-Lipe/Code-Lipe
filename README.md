@@ -11,18 +11,18 @@ Olá 👋 Meu nome é Felipe
   <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
 </p>
 
-🚀 Data Engineer & Analysis | Dados em Grande Escala
+🚀 Data Engineer & Analysis
 --------------------------------------------------------------------
 
-Sou um profissional apaixonado por tecnologia e dados, atualmente focado em **Engenharia de Dados**. Meu objetivo é construir pipelines eficientes, processar grandes volumes de informações e garantir a integridade dos dados para apoiar decisões estratégicas.
+Sou apaixonado por dados e movido pela curiosidade. Tenho experiência com análise e engenharia de dados, limpando informações, organizando banco de dados e transformando números em histórias que geram valor. Me interesso por tudo que envolva aprender, resolver problemas e trazer clareza onde antes havia bagunça.
 
-Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate** e expandindo minhas habilidades em **ETL**, **web scraping**, **SQL**, **Apache Spark** e **computação em nuvem**. Minha missão é transformar dados brutos em informações valiosas, com código otimizado e escalável.
+Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate** e expandindo minhas habilidades em **ETL**, **web scraping**, **SQL**, **Apache Spark** e **computação em nuvem**. Minha missão é transformar dados brutos em informações valiosas, com código otimizado e escalável. E quem sabe conseguir a sonhada vaga na IBM!
 
 * 🌍 Eu sou de Vitória - ES, Brasil
 * ✉️ Você pode entrar em contato comigo em: contato.codelipe@hotmail.com
 * 💼 Venha me conhecer mais de perto em meu [portfólio!](https://codelipe.notion.site/CodeLipe-An-lise-e-Engenharia-de-Dados-1d7d8cd4af3a806db812c100f6cea52d)
-* 📖 Atualmente estudando: Engenharia de Dados | Apache Spark | Automação de Pipelines
-* ⚡  Hobbies: Tecnologia, literatura, heavy metal e games 🎮
+* 📖 Atualmente estudando: Engenharia de Dados | Tableau
+* ⚡ Hobbies: Tecnologia, literatura, heavy metal e games
 
 📂 Projetos Recentes
 
