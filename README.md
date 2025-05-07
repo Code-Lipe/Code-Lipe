@@ -16,7 +16,7 @@ Olá 👋 Meu nome é Felipe
 
 Sou apaixonado por dados e movido pela curiosidade. Tenho experiência com análise e engenharia de dados, limpando informações, organizando banco de dados e transformando números em histórias que geram valor. Me interesso por tudo que envolva aprender, resolver problemas e trazer clareza onde antes havia bagunça.
 
-Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate** e expandindo minhas habilidades em **ETL**, **web scraping**, **SQL**, **Apache Spark** e **computação em nuvem**. Minha missão é transformar dados brutos em informações valiosas, com código otimizado e escalável. E quem sabe conseguir a sonhada vaga na IBM!
+Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate** e expandindo minhas habilidades em **ETL**, **web scraping**, **SQL**, **Apache Spark** e **computação em nuvem**. Minha missão é transformar dados brutos em informações valiosas, com código otimizado e escalável.
 
 * 🌍 Eu sou de Vitória - ES, Brasil
 * ✉️ Você pode entrar em contato comigo em: contato.codelipe@hotmail.com
