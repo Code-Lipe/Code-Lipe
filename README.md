@@ -21,7 +21,7 @@ Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate**
 * 🌍 Eu sou de Vitória - ES, Brasil
 * ✉️ Você pode entrar em contato comigo em: contato.codelipe@hotmail.com
 * 💼 Venha me conhecer mais de perto em meu [portfólio!](https://codelipe.notion.site/CodeLipe-An-lise-e-Engenharia-de-Dados-1d7d8cd4af3a806db812c100f6cea52d)
-* 📖 Atualmente estudando: Análise financeiro| Power BI
+* 📖 Atualmente estudando: Análise financeiro | Power BI
 * ⚡ Hobbies: Tecnologia, literatura, heavy metal e games
 
 📂 Projetos Recentes
