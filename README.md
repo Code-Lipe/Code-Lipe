@@ -11,28 +11,28 @@ Olá 👋 Meu nome é Felipe
   <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
 </p>
 
-🚀 Data Analyst
+🚀 Data & AI Enthusiast
 --------------------------------------------------------------------
 
-Sou apaixonado por dados e movido pela curiosidade. Tenho experiência com análise e estudando engenharia de dados. Limpando informações, organizando banco de dados e transformando números em histórias que geram valor. Me interesso por tudo que envolva aprender, resolver problemas e trazer clareza onde antes havia bagunça.
+Minha jornada profissional é movida pela paixão por dados e uma curiosidade insaciável. Com experiência em análise de dados, aprendi a transformar números brutos em narrativas valiosas que geram insights e impulsionam decisões.
 
-Atualmente, estou concluindo o **IBM Data Engineering Professional Certificate** e expandindo minhas habilidades em **ETL**, **web scraping**, **SQL**, **Apache Spark** e **computação em nuvem**. Minha missão é transformar dados brutos em informações valiosas, com código otimizado e escalável.
+Atualmente, estou expandindo minhas habilidades para o universo da Inteligência Artificial, me dedicando a construir aplicações Web e me tornar um desenvolvedor de IA. Tenho focado em construir aplicações completas, usando Python e Flask no backend e HTML, CSS e JavaScript para o frontend. Meu objetivo é ir além da análise, criando produtos que usem dados de forma inteligente para resolver problemas.
 
 * 🌍 Eu sou de Vitória - ES, Brasil
 * ✉️ Você pode entrar em contato comigo em: contato.codelipe@hotmail.com
 * 💼 Venha me conhecer mais de perto em meu [portfólio!](https://codelipe.notion.site/CodeLipe-An-lise-e-Engenharia-de-Dados-1d7d8cd4af3a806db812c100f6cea52d)
-* 📖 Atualmente estudando: Análise financeiro | Power BI
+* 📖 Atualmente estudando: Desenvolvimento de IA | Python | Generative IA
 * ⚡ Hobbies: Tecnologia, literatura, heavy metal e games
 
 📂 Projetos Recentes
 
-🔹 ETL e Web Scraping - Os Maiores Bancos do Mundo
+🔹 Gerenciador de Tarefas com Flask
 
-  * Projeto que combina Extração, Transformação e Carga (ETL) de dados com web scraping.
+    Aplicação web simples para adicionar, listar e excluir tarefas, construída com Flask e Tailwind CSS.
 
-  * Utiliza Python, BeautifulSoup, Pandas e SQLite para coletar informações e armazená-las de forma estruturada.
+    Utiliza Python, Flask, Jinja2 e Tailwind para criar uma interface dinâmica e responsiva.
 
-🔗 Já disponível!
+    🔗 Já disponível!
 
 ### Rede Social
 </picture> </a> <a href="http://www.instagram.com/fe.lipe_os" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-codelipe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
