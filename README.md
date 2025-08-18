@@ -20,7 +20,6 @@ Atualmente, estou expandindo minhas habilidades para o universo da Inteligência
 
 * 🌍 Eu sou de Vitória - ES, Brasil
 * ✉️ Você pode entrar em contato comigo em: contato.codelipe@hotmail.com
-* 💼 Venha me conhecer mais de perto em meu [portfólio!](https://codelipe.notion.site/CodeLipe-An-lise-e-Engenharia-de-Dados-1d7d8cd4af3a806db812c100f6cea52d)
 * 📖 Atualmente estudando: Desenvolvimento de IA | Python | Generative IA
 * ⚡ Hobbies: Tecnologia, literatura, heavy metal e games
 
