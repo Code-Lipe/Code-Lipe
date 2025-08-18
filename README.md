@@ -26,6 +26,16 @@ Atualmente, estou expandindo minhas habilidades para o universo da Inteligência
 
 📂 Projetos Recentes
 
+🔹 Blog com Flask
+
+    Aplicação web simples de blog, construída com Flask e Tailwind CSS.
+
+    Tecnologias Utilizadas: Python, Flask, Jinja2, SQLAlchemy e Tailwind.
+    Funcionalidades: Gerenciar posts de blog, incluindo a criação de novos posts, persistência de dados e exclusão de dados.
+    Status: Finalizado, mas com possivél upgrade futuramente.
+
+    🔗 Já disponível!
+
 🔹 Gerenciador de Tarefas com Flask
 
     Aplicação web simples para adicionar, listar e excluir tarefas, construída com Flask e Tailwind CSS.
