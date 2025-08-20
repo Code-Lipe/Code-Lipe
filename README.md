@@ -1,18 +1,16 @@
-# Olá 👋 Meu nome é Felipe
-=======================
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Focado-4CAF50?style=flat&logo=eye&logoColor=white" alt="Focado" />
-  <img src="https://img.shields.io/badge/Aprendizado_Constante-FF5722?style=flat&logo=book&logoColor=white" alt="Aprendizado Constante" />
-  <img src="https://img.shields.io/badge/Impacto_Social-FFC107?style=flat&logo=globe&logoColor=white" alt="Impacto Social" />
-  <img src="https://img.shields.io/badge/Curioso-03A9F4?style=flat&logo=question&logoColor=white" alt="Curioso" />
-  <img src="https://img.shields.io/badge/Entusiasta_Tecnológico-00BCD4?style=flat&logo=computer&logoColor=white" alt="Entusiasta Tecnológico" />
-  <img src="https://img.shields.io/badge/Colaborativo-8BC34A?style=flat&logo=users&logoColor=white" alt="Colaborativo" />
-  <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
+  <img src="https://img.shields.io/badge/Pensador_Crítico-4CAF50?style=flat&logo=thinkpad&logoColor=white" alt="Pensador Crítico" />
+  <img src="https://img.shields.io/badge/Resolutor_de_Problemas-FF5722?style=flat&logo=cplusplus&logoColor=white" alt="Resolutor de Problemas" />
+  <img src="https://img.shields.io/badge/Curioso-03A9F4?style=flat&logo=question&logoColor=white" alt="Curioso" />
+  <img src="https://img.shields.io/badge/Aprendizado_Contínuo-FFC107?style=flat&logo=book&logoColor=white" alt="Aprendizado Contínuo" />
+  <img src="https://img.shields.io/badge/Detalhista-00BCD4?style=flat&logo=binoculars&logoColor=white" alt="Detalhista" />
+  <img src="https://img.shields.io/badge/Colaborativo-8BC34A?style=flat&logo=users&logoColor=white" alt="Colaborativo" />
+  <img src="https://img.shields.io/badge/Resiliente-FF9800?style=flat&logo=trophy&logoColor=white" alt="Resiliente" />
 </p>
 
+# Olá 👋 Meu nome é Felipe
+
 ## 🚀 Data & AI Enthusiast
---------------------------------------------------------------------
 
 Minha jornada profissional é movida pela paixão por dados e uma curiosidade insaciável. Com experiência em análise de dados, aprendi a transformar números brutos em narrativas valiosas que geram insights e impulsionam decisões.
 
