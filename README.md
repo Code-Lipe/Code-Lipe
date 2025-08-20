@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Felipe
+# Olá 👋 Meu nome é Felipe
 =======================
 
 <p align="left">
@@ -11,7 +11,7 @@ Olá 👋 Meu nome é Felipe
   <img src="https://img.shields.io/badge/Empatia-FF9800?style=flat&logo=heart&logoColor=white" alt="Empatia" />
 </p>
 
-🚀 Data & AI Enthusiast
+## 🚀 Data & AI Enthusiast
 --------------------------------------------------------------------
 
 Minha jornada profissional é movida pela paixão por dados e uma curiosidade insaciável. Com experiência em análise de dados, aprendi a transformar números brutos em narrativas valiosas que geram insights e impulsionam decisões.
@@ -23,25 +23,26 @@ Atualmente, estou expandindo minhas habilidades para o universo da Inteligência
 * 📖 Atualmente estudando: Desenvolvimento de IA | Python | Generative IA
 * ⚡ Hobbies: Tecnologia, literatura, heavy metal e games
 
-📂 Projetos Recentes
+## 📂 Projetos Recentes
 
-🔹 Blog com Flask
+🔹 [**Flask_JWT_API**](https://github.com/Code-Lipe/flask_jwt_api)
+- Aplicação web completa com autenticação de usuário segura usando JWT.
+- **Tecnologias Utilizadas:** Python, Flask, Flask-JWT-Extended, SQLAlchemy e Bcrypt. No frontend HTML, CSS e JavaScript (ES6).
+- **Funcionalidades:** Implementação de rotas protegidas, registro e login de usuários, gerenciamento de token JWT e proteção de páginas.
+- **Status:** Finalizado.
+- 🔗 Já disponível!
 
-    Aplicação web simples de blog, construída com Flask e Tailwind CSS.
+🔹 [**Blog com Flask**](https://github.com/Code-Lipe/blog)
+- Aplicação web simples de blog, construída com Flask e Tailwind CSS.
+- **Tecnologias Utilizadas:** Python, Flask, Jinja2, SQLAlchemy e Tailwind.
+- **Funcionalidades:** Gerenciar posts de blog, incluindo a criação de novos posts, persistência de dados e exclusão de dados.
+- **Status:** Finalizado, mas com possivél upgrade futuramente.
+- 🔗 Já disponível!
 
-    Tecnologias Utilizadas: Python, Flask, Jinja2, SQLAlchemy e Tailwind.
-    Funcionalidades: Gerenciar posts de blog, incluindo a criação de novos posts, persistência de dados e exclusão de dados.
-    Status: Finalizado, mas com possivél upgrade futuramente.
-
-    🔗 Já disponível!
-
-🔹 Gerenciador de Tarefas com Flask
-
-    Aplicação web simples para adicionar, listar e excluir tarefas, construída com Flask e Tailwind CSS.
-
-    Utiliza Python, Flask, Jinja2 e Tailwind para criar uma interface dinâmica e responsiva.
-
-    🔗 Já disponível!
+🔹 [**Gerenciador de Tarefas com Flask**](https://github.com/Code-Lipe/gerenciador_tarefas)
+- Aplicação web simples para adicionar, listar e excluir tarefas, construída com Flask e Tailwind CSS.
+- Utiliza Python, Flask, Jinja2 e Tailwind para criar uma interface dinâmica e responsiva.
+- 🔗 Já disponível!
 
 ### Rede Social
 </picture> </a> <a href="http://www.instagram.com/fe.lipe_os" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-codelipe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
@@ -53,7 +54,3 @@ Atualmente, estou expandindo minhas habilidades para o universo da Inteligência
 <a href="http://www.github.com/Code-Lipe"><img src="https://github-readme-stats.vercel.app/api?username=Code-Lipe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Code-Lipe's GitHub stats" /></a>
 
 <a href="https://github.com/Code-Lipe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Lipe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Principais Repositórios</b>
-
-<div width="100%" align="center"><a href="https://github.com/Code-Lipe/ETL-e-Web-Scraping" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Lipe&repo=ETL-e-Web-Scraping&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Code-Lipe/data_visualization_R_shiny" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Lipe&repo=data_visualization_R_shiny&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
